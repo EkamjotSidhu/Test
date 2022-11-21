@@ -17,7 +17,7 @@ Install inquirer 8.2.4
 ## Usage
 Run node index.js and answer all questions<br/>
 The video below walksthrough the app.</br>
-![Alt Text]({Usage video.webm})
+<iframe src="https://drive.google.com/file/d/1pABxyGd7cdUK-1_dtKRqNB7_ZUUR5gAC/preview" width="640" height="480"></iframe>
 
 ## Contributors
 Ekam Sidhu
