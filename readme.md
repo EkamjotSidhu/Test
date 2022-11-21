@@ -1,32 +1,33 @@
 
-            ![shields.io](https://img.shields.io/badge/License-MIT-green)
-            # Readme generator
-            
-            ## Description
-            Professional readme generator
-            
-            ## Table of contents
-            -[Installation](#installation)
-            -[Usage](#usage)
-            -[Contributors](#contribution)
-            -[License](#license)
-            
-            ## Installation
-            Install inquirer 8.2.4
+![shields.io](https://img.shields.io/badge/License-MIT-green)
+# REadme generator
 
-            ## Usage
-            Run index.js and answer the questions
+## Description
+Professional readme generator
 
-            ## Contributors
-            Ekam Sidhu
+## Table of contents
+-[Installation](#installation)<br/>
+-[Usage](#usage)<br/>
+-[Contributors](#contribution)<br/>
+-[License](#license)<br/>
 
-            ## Test
-            N/A
+## Installation
+Install inquirer 8.2.4
 
-            ## License
-            MIT
+## Usage
+Run node index.js and answer all questions<br/>
+The video below walksthrough the app.</br>
+![Alt Text]({Assets/Usage video.webm})
 
-            ## Contact
-            ### Github: EkamjotSidhu
-            ### Email: ekamsidhu5678@gmail.com
-            
+## Contributors
+Ekam Sidhu
+
+## Test
+N/A
+
+## License
+MIT
+
+## Contact
+### Github: https://github.com/EkamjotSidhu
+### Email: ekamsidhu5678@gmail.com
